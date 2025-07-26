@@ -1,3 +1,7 @@
 {
-  "rootDirectory": "worksync-calendar"
+  "buildCommand": "npm run build",
+  "outputDirectory": "build",
+  "installCommand": "npm install",
+  "rootDirectory": "worksync-calendar",
+  "framework": "create-react-app"
 }
